@@ -11,12 +11,15 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import com.hamidulsarder.visibility.R;
 
 public class MainActivity extends AppCompatActivity {
 
     CardView bBS, bES, bHS, bTS;
+
+    TextView git;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
