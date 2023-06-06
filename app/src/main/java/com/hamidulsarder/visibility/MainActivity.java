@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     CardView bBS, bES, bHS, bTS;
 
-    TextView git;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
