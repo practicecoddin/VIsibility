@@ -4,5 +4,9 @@
     >
 
     <solid android:color="#9E03A9F4"/>
+    <gradient
+        android:startColor="#FF5722"
+        android:endColor="@color/purple_200"
+        />
 
 </shape>

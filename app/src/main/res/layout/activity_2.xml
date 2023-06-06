@@ -295,6 +295,7 @@
             >
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/es1"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -337,6 +338,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/es2"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -379,6 +381,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/es3"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -421,6 +424,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/es4"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -463,6 +467,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/es5"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -546,6 +551,7 @@
             >
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/hs1"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -588,6 +594,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/hs2"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -630,6 +637,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/hs3"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -672,6 +680,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/hs4"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -714,6 +723,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/hs5"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -797,6 +807,7 @@
             >
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/ts1"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -836,6 +847,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/ts2"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -878,6 +890,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/ts3"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -920,6 +933,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/ts4"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
@@ -962,6 +976,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/ts5"
                 style="@style/CardView"
                 android:layout_marginTop="10dp"
                 android:layout_marginStart="10dp"
