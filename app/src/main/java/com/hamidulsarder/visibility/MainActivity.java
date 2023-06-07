@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     CardView bBS, bES, bHS, bTS;
 
+    TextView checkHamidul;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
